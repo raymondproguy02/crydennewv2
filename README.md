@@ -1,5 +1,17 @@
 # CrydenSync
 
+<div align="center">
+[![Go Reference](https://pkg.go.dev/badge/github.com/crydensync/cryden.svg)](https://pkg.go.dev/github.com/crydensync/cryden)
+[![Go Report Card](https://goreportcard.com/badge/github.com/crydensync/cryden)](https://goreportcard.com/report/github.com/crydensync/cryden)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+<!-- Social Stats - These will show numbers even if zero -->
+[![GitHub Stars](https://img.shields.io/github/stars/crydensync/cryden?style=social)](https://github.com/crydensync/cryden/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/crydensync/cryden?style=social)](https://github.com/crydensync/cryden/network/members)
+[![GitHub Watchers](https://img.shields.io/github/watchers/crydensync/cryden?style=social)](https://github.com/crydensync/cryden/watchers)
+[![GitHub Downloads](https://img.shields.io/github/downloads/crydensync/cryden/total)](https://github.com/crydensync/cryden/releases)
+</div>
+
 An embeddable, framework-agnostic authentication engine for Go. Import it, configure it, own your users.
 
 ```go
@@ -129,3 +141,9 @@ CLI, HTTP API, and language SDKs are separate repositories that wrap this engine
 ## License
 
 MIT — see [LICENSE](./LICENSE).
+
+---
+
+<div align="center">
+  <sub>Built with ❤️ in Africa · Own your users, not vendor lock-in</sub>
+</div>
