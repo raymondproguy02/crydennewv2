@@ -1,6 +1,7 @@
 # CrydenSync
 
 <div align="center">
+	
 [![Go Reference](https://pkg.go.dev/badge/github.com/crydensync/cryden.svg)](https://pkg.go.dev/github.com/crydensync/cryden)
 [![Go Report Card](https://goreportcard.com/badge/github.com/crydensync/cryden)](https://goreportcard.com/report/github.com/crydensync/cryden)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
